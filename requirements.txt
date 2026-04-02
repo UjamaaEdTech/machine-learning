@@ -1,0 +1,10 @@
+# Crop Recommendation Advisory System — Requirements
+# Install with: pip install -r requirements.txt
+
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
